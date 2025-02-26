@@ -8,8 +8,13 @@ body {
 
 a {
     color: orange;
+    font-size: 45px;
 }
 
+span {
+    color: orange;
+    font-size: 45px;
+}
 
 
 img {
@@ -24,4 +29,18 @@ h1 {
 h3 {
     background-color:rgb(92, 60, 37) ;
     color: white;
+}
+
+.navigation {
+    font-size: 20px;
+}
+
+.la_nacion {
+    font-size: 20px;
+    color: rgb(38, 109, 38);
+}
+
+.Pagina12 {
+    color: red;
+    font-size: 20px;
 }
