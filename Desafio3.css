@@ -1,0 +1,27 @@
+* {
+    font-family: - Verdana, Arial, sans-serif;
+}
+
+body {
+    color: rgb(92, 60, 37);
+}
+
+a {
+    color: orange;
+}
+
+
+
+img {
+    width: 100%;
+}
+
+h1 {
+    font-size: 45px;
+
+}
+
+h3 {
+    background-color:rgb(92, 60, 37) ;
+    color: white;
+}
