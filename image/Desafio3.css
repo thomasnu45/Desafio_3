@@ -1,0 +1,55 @@
+* {
+    font-family: - Verdana, Arial, sans-serif;
+}
+
+body {
+    color: rgb(92, 60, 37);
+    font-size: 20px;
+}
+
+a {
+    color: #ef6d24;
+    font-size: 45px;
+}
+
+span {
+    font-size: 40px;
+}
+
+
+img {
+    width: 100%;
+}
+
+h1 {
+    font-size: 45px;
+
+}
+
+h3 {
+    background-color:#775548;
+    color: white;
+}
+
+ul li a {
+    font-size: 20px;
+}
+
+.navigation {
+    font-size: 20px;
+}
+
+.la_nacion {
+    font-size: 20px;
+    color: #3aabc4;
+}
+
+.Pagina12 {
+    color: #ef4b51;
+    font-size: 20px;
+}
+
+.Porque_elegirnos {
+    color: #d8b03b;
+    
+}
